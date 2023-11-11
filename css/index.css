@@ -1,0 +1,5 @@
+@import 'normalize.css';  /*standart styles normalization*/
+@import 'fonts.css';      /*fonts*/
+@import 'default.css';    /*default styles*/
+@import 'mobile.css';     /*mobile view*/
+@import 'desktop.css';    /*desktop view*/
